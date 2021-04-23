@@ -13,9 +13,6 @@ Input-
 Column 1: DateTime
 
 Column 2: Watts
-<br />
-<br />
-<br />
 <hr /> 
 **Normal Usage-**
 
@@ -26,8 +23,6 @@ Output-
 Column 1: DateTime
 
 Column 2: Switched Watts
-<br />
-<br />
 <hr /> 
 **Advanced Usage-**
 

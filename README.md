@@ -10,9 +10,10 @@ for 1 second time interval input CSV files (no header)
 
 Input-
 
-Column 1: DateTime
-
-Column 2: Watts
+|||
+|---|---|
+|Column 1|DateTime|
+|Column 2|Watts|
 
 <hr /> 
 
@@ -22,7 +23,7 @@ Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv
 
 Output-
 
-|Column 1:|DateTime|
+|||
 |---|---|
 |Column 1|DateTime|
 |Column 2|Switched Watts|
@@ -34,7 +35,7 @@ Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv --verbose
 
 Output-
 
-|Column 1:|DateTime|
+|||
 |---|---|
 |Column 1|DateTime|
 |Column 2|Unix Time|

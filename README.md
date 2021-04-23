@@ -13,7 +13,8 @@ Input-
 Column 1: DateTime
 
 Column 2: Watts
-\<hr /> 
+
+<hr /> 
 
 **Normal Usage-**
 

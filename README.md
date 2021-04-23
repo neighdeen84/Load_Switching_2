@@ -16,8 +16,7 @@ Column 2: Watts
 <br />
 <br />
 <br />
-<br />
-<br />
+<hr /> 
 **Normal Usage-**
 
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv
@@ -29,9 +28,7 @@ Column 1: DateTime
 Column 2: Switched Watts
 <br />
 <br />
-<br />
-<br />
-<br />
+<hr /> 
 **Advanced Usage-**
 
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv --verbose

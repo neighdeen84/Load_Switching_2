@@ -1,7 +1,7 @@
-# NeoCharge Averaged Switching Characteristics Using State Machine Logic
+## NeoCharge Averaged Switching Characteristics Using State Machine Logic
 
 
-## PGE-GEL Capstone Project 
+### PGE-GEL Capstone Project 
 
 
 

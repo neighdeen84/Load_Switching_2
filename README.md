@@ -18,7 +18,7 @@ Column 2: Watts
 <br />
 <br />
 <br />
-Normal Usage-
+**Normal Usage-**
 
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv
 
@@ -32,7 +32,7 @@ Column 2: Switched Watts
 <br />
 <br />
 <br />
-Advanced Usage-
+**Advanced Usage-**
 
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv --verbose
 

@@ -13,11 +13,11 @@ Input-
 Column 1: DateTime
 
 Column 2: Watts
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 Normal Usage-
 
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv

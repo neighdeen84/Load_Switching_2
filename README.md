@@ -21,9 +21,8 @@ Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv
 
 Output-
 
-Column 1: DateTime
-
-Column 2: Switched Watts
+|Column 1|DateTime|
+|Column 2|Switched Watts|
 <hr /> 
 
 **Advanced Usage-**
@@ -31,22 +30,6 @@ Column 2: Switched Watts
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv --verbose
 
 Output-
-
-Column 1: DateTime
-
-Column 2: Unix Time
-
-Column 3: Primary Watts
-
-Column 4: Secondary Watts
-
-Column 5: Switched Watts
-
-Column 6: State Space (primary / secondary)
-
-Column 7: State Change (Ture / False)
-
-Column 8: Secondary DateTime
 
 |Column 1:|DateTime|
 |---|---|
@@ -56,5 +39,5 @@ Column 8: Secondary DateTime
 |Column 4|Secondary Watts|
 |Column 5|Switched Watts|
 |Column 6|State Space (primary / secondary)|
-|Column 7|State Change (Ture / False)|
+|Column 7|State Change (True / False)|
 |Column 8|Secondary DateTime|

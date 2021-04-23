@@ -4,12 +4,12 @@
 ## PGE-GEL Capstone Project 
 
 
-NeoCharge Averaged Switching Characteristics Using State Machine Logic
+NeoCharge Averaged Switching Characteristics Using State Machine Logic\
 
-	for 1 second time interval input CSV files (no header)
-	Input-
-	Column 1: DateTime
-	Column 2: Watts
+for 1 second time interval input CSV files (no header)
+Input-
+Column 1: DateTime
+Column 2: Watts
 
 Normal Usage-
 Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv

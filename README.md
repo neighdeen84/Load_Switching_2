@@ -50,10 +50,11 @@ Column 8: Secondary DateTime
 
 |Column 1:|DateTime|
 |---|---|
-|Column 1:|DateTime|
-|Column 2:|Unix Time|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|Column 1|DateTime|
+|Column 2|Unix Time|
+|Column 3|Primary Watts|
+|Column 4|Secondary Watts|
+|Column 5|Switched Watts|
+|Column 6|State Space (primary / secondary)|
+|Column 7|State Change (Ture / False)|
+|Column 8|Secondary DateTime|

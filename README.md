@@ -5,6 +5,7 @@
 
 
 NeoCharge Averaged Switching Characteristics Using State Machine Logic
+
 	for 1 second time interval input CSV files (no header)
 	Input-
 	Column 1: DateTime

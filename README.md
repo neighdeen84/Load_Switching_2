@@ -1,10 +1,9 @@
-# Load Switching Script
+# NeoCharge Averaged Switching Characteristics Using State Machine Logic
 
 
 ## PGE-GEL Capstone Project 
 
 
-NeoCharge Averaged Switching Characteristics Using State Machine Logic
 
 for 1 second time interval input CSV files (no header)
 

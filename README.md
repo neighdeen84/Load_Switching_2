@@ -1,5 +1,9 @@
 # Load_Switching_2
-PGE-GEL Capstone Project
+
+
+## PGE-GEL Capstone Project 
+
+
 NeoCharge Averaged Switching Characteristics Using State Machine Logic
 	for 1 second time interval input CSV files (no header)
 	Input-

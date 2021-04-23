@@ -1,4 +1,4 @@
-# Load_Switching_2
+# Load Switching Script
 
 
 ## PGE-GEL Capstone Project 

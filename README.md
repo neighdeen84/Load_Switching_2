@@ -21,6 +21,8 @@ Command: NeoCharge_1sec_Switch.py primary.csv secondary.csv out.csv
 
 Output-
 
+|Column 1:|DateTime|
+|---|---|
 |Column 1|DateTime|
 |Column 2|Switched Watts|
 <hr /> 
